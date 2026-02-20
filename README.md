@@ -1,1 +1,1 @@
-My first shell project
+Learning basic shell commands
